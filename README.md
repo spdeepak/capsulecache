@@ -1,2 +1,1 @@
-# capsulecache
-contained, bounded, safe cache
+# Capsule Cache
